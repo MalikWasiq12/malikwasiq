@@ -1,4 +1,0 @@
-void main () {
-var name = "malik wasiq";
-var age = '14';
-print ("My name is ${name} and my age is ${age}");
