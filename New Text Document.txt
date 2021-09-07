@@ -18,6 +18,6 @@ var percentageofEnglish = (obtainedMarksofEnglish/totalMarksofEnglish)*100;
 var obtainedMarks = (obtainedMarksofMaths+obtainedMarksofPhysics+obtainedMarksofChemistry+obtainedMarksofBiology+obtainedMarksofEnglish);
 var totalMarks = (totalMarksofMaths+totalMarksofPhysics+totalMarksofChemistry+totalMarksofBiology+totalMarksofEnglish);  
 var totalPercentage = (obtainedMarks/totalMarks)*100;
-print(totalPercentage); 
+ 
   
   
